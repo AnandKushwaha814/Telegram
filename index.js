@@ -14,7 +14,6 @@ let addTwoNo = `
   res=a+b;
   cout<<a <<" + "<<b<<" = " <<res;
   return 0;
-  
 }`;
 
 const bot = new Telegraf("7262764460:AAGPOlwpmcRTtoOCnD8HQoqVfTj-aALwzG4"); // Add your bot token here
