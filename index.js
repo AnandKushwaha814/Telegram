@@ -16,7 +16,8 @@ let addTwoNo = `
   return 0;
 }`;
 
-const bot = new Telegraf("7262764460:AAGPOlwpmcRTtoOCnD8HQoqVfTj-aALwzG4"); // Add your bot token here
+// write your tokens here
+const bot = new Telegraf("......"); // Add your bot token here
 const openWeatherApiKey = "86d65bb5184b93a24807398a4ea8862f";
 
 // Start command
